@@ -1,0 +1,1 @@
+# This repository aims to explore the concept of design patterns through the implementation of simple examples.
